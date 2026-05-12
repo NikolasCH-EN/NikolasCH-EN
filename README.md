@@ -10,18 +10,25 @@
 
 * 🏙️ Focus on **spatial analysis**, **urban informatics**, and applying geographic thinking to real-world datasets.
 * 🛠️ Prefer practical, hands-on projects to solve spatial problems.
-* 🌱 Currently exploring: the intersection of GIST and cybersecurity.
+* 🌱 Currently exploring: Disaster management, human mobility, and the intersection of GIST and cybersecurity.
 
 ## 💻 Tech Stack & Tools
 
-<!-- 这里是你常用的技术栈徽章 -->
+**Core Spatial & Data Analysis**
 <p align="left">
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
-  <img src="https://img.shields.io/badge/ArcGIS_Pro-00457C?style=for-the-badge&logo=esri&logoColor=white" alt="ArcGIS" />
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" alt="macOS" />
+  <img src="https://img.shields.io/badge/ArcGIS_Pro-00457C?style=for-the-badge&logo=esri&logoColor=white" alt="ArcGIS" />
+  <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white" alt="QGIS" />
+</p>
+
+**Data Management & Environment**
+<p align="left">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
 
 ## 📊 GitHub Stats
 ![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=NikolasCH-EN&show_icons=true&theme=merko)
+
