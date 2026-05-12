@@ -1,7 +1,7 @@
-# Hi there! 👋 I'm Nick
+# Hi there!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=276DC3&center=true&vCenter=true&width=500&lines=GIST+Student+%40+TAMU;Urban+Informatics+Enthusiast;Spatial+Analysis+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=276DC3&center=true&vCenter=true&width=500&lines=GIST;Urban+Informatics+Enthusiast;Spatial+Analysis+Explorer" alt="Typing SVG" />
 </div>
 
 <br/>
