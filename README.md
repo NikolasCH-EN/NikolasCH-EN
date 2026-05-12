@@ -24,6 +24,4 @@
 
 
 ## 📊 GitHub Stats
-
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=NikolasCH-EN)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=NikolasCH-EN&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=NikolasCH-EN&show_icons=true&theme=merko)
