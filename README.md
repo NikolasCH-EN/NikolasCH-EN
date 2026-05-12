@@ -25,7 +25,4 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <!-- 注意：请把这里的 YOUR_USERNAME 替换成你真实的 GitHub 用户名 -->
-  <img [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NikolasCH-EN)](https://github.com/anuraghazra/github-readme-stats) />
-</div>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NikolasCH-EN)](https://github.com/anuraghazra/github-readme-stats)
