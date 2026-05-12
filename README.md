@@ -8,10 +8,9 @@
 
 ## 🌍 About Me
 
-* 🎓 Senior at Texas A&M University majoring in **Geographic Information Science and Technology (GIST)**, transitioning to a Master's in Geography (Expected Dec 2026).
 * 🏙️ Focus on **spatial analysis**, **urban informatics**, and applying geographic thinking to real-world datasets.
 * 🛠️ Prefer practical, hands-on projects to solve spatial problems.
-* 🌱 Currently exploring: Desktop application development (Spotify API) and the intersection of geography and cybersecurity.
+* 🌱 Currently exploring: the intersection of GIST and cybersecurity.
 
 ## 💻 Tech Stack & Tools
 
@@ -23,16 +22,10 @@
   <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" alt="macOS" />
 </p>
 
-## 🚀 Recent & Featured Projects
-
-* 📍 **Chicago Crime & School Calendars Spatial Analysis**
-  Investigated the relationship between K-12 academic schedules and geographic crime distributions in Chicago. Formulated hypothesis testing and executed statistical modeling using R.
-* 🎵 **Desktop Music Player (In Progress)**
-  Developing a customized desktop application integrating with the Spotify API.
 
 ## 📊 GitHub Stats
 
 <div align="center">
   <!-- 注意：请把这里的 YOUR_USERNAME 替换成你真实的 GitHub 用户名 -->
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=276DC3&icon_color=276DC3" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NikolasCH-EN&show_icons=true&theme=transparent&hide_border=true&title_color=276DC3&icon_color=276DC3" alt="GitHub Stats" />
 </div>
